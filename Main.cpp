@@ -1,10 +1,4 @@
-//============================================================================
-// Name        : ex7.cpp
-// Author      :
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
-//============================================================================
+
 #include <cstdlib>
 #include <vector>
 #include <iostream>
